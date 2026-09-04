@@ -29,6 +29,12 @@ The application also displays the predicted probability of the message being cla
 
 ---
 
+## 🚀 Live Demo
+
+[Click here to try the Email/SMS Spam Classifier](https://emailmessage-spam-classifier.streamlit.app/)
+
+--
+
 # 📌 Project Workflow
 
 ```text
